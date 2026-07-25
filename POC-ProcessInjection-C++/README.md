@@ -9,7 +9,7 @@
 
 # Simple Windows malware | Process injection
 
-Simple payload for hacking Windows and process injection. Using the windows API for the C++ programming language. 
+Simple payload for hacking Windows and process injection. Using the windows API. 
 
 * **Windows API:** https://learn.microsoft.com/pt-br/windows/win32/apiindex/windows-api-list
 
