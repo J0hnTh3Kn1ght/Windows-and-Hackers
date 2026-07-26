@@ -12,7 +12,7 @@
 - [CoverYourTracks](./CoverYourTracks) - Anti-forensics and footprint reduction toolkit
 - [Enumeration](./Enumeration) - List of sensitive files or potential misconfigurations and vulnerabilities
 - ⏰ [Obfuscation](./Obfuscation) - Reverse shell [Powershell obfuscation] - (Researching...)
-- ⏰ [Post-Exploitation] - (Researching...)
+- ⏰ [Post-Exploitation](./Post-Exploitation) - (Researching...)
   
 ---
 
