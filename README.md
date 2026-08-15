@@ -1,5 +1,3 @@
-<center><img src="Images/Image.png"></center>
-
 > **Windows and Hackers**  
 > Scripts/PoCs/Toolkits for personal use and for studying exploitation in Windows environments
 
